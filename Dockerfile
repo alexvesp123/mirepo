@@ -28,5 +28,5 @@ EXPOSE 1098
 EXPOSE 7777
 EXPOSE 9997
 
-#CMD echo"--------Start mule runtime---------"
-#ENTRYPOINT ["./opt/mule/bin/mule"]
+CMD echo"--------Start mule runtime---------"
+ENTRYPOINT ["./opt/mule/bin/mule"]
