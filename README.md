@@ -1,2 +1,0 @@
-# mirepo
-mi repositorio
